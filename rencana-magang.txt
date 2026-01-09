@@ -3,4 +3,6 @@ rencana magang
   * Alur perkantoran
   * Diskominfo
 - merancang sistem
+  * sistem untuk pupr
+  * sistem untuk kpu
 - menambah relasi
