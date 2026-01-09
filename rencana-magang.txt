@@ -5,4 +5,5 @@ rencana magang
 - merancang sistem
   * sistem untuk dinas pariwisata
   * sistem untuk pupr
+  * sistem untul dinas pendidikan
 - menambah relasi
