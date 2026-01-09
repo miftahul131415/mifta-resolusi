@@ -1,0 +1,5 @@
+rencana magang
+- menambah ilmu
+  * Alur perkantoran
+  * Diskominfo
+- merancang sistem
