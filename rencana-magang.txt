@@ -3,3 +3,4 @@ rencana magang
   * Alur perkantoran
   * Diskominfo
 - merancang sistem
+- menambah relasi
