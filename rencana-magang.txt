@@ -3,6 +3,7 @@ rencana magang
   * Alur perkantoran
   * Diskominfo
 - merancang sistem
+  * sistem untuk kpu
   * sistem untuk dinas pariwisata
   * sistem untuk pupr
   * sistem untul dinas pendidikan
